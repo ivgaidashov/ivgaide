@@ -22,7 +22,7 @@
     <div class="project-banner">
         <img src="<?php echo HTTP;?>img/projects/bank_website/1.png">
         <div class="see-live">
-            <a href="">See The Live Version</a>
+            <a href="http://ivgaide.epizy.com/">See The Live Version</a>
         </div>
     </div>
 
@@ -51,7 +51,7 @@
     <div class="project-banner">
         <img src="<?php echo HTTP;?>img/projects/bank_website/2.png">
         <div class="see-live">
-            <a href="">See The Live Version</a>
+            <a href="http://ivgaide.epizy.com/">See The Live Version</a>
         </div>
     </div>
 
@@ -62,7 +62,7 @@
     <div class="project-banner">
         <video src="<?php echo HTTP;?>/img/projects/bank_website/debit_card.mp4" width autoplay muted loop></video>
         <div class="see-live">
-            <a href="">See The Live Version</a>
+            <a href="http://ivgaide.epizy.com/">See The Live Version</a>
         </div>
     </div>
 
@@ -73,7 +73,7 @@
     <div class="project-banner">
         <img src="<?php echo HTTP;?>img/projects/bank_website/3.jpg">
         <div class="see-live">
-            <a href="">See The Live Version</a>
+            <a href="http://ivgaide.epizy.com/">See The Live Version</a>
         </div>
     </div>
 

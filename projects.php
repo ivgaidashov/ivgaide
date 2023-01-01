@@ -25,7 +25,7 @@
             }
         }
 
-        $skills = ['Python','SQL','Adobe-Illustrator','Adobe-After-Effects','English','PHP','Javascript', 'CSS', 'Power-Bi'];
+        $skills = ['Python','SQL', 'PL/SQL', 'Reactjs', 'Nextjs', 'Adobe-Illustrator','Adobe-After-Effects','English','PHP','Javascript', 'Power-Bi', 'Selenium'];
         $get_tag = isset($_GET['tag']) && in_array($_GET['tag'], $skills) ? $_GET['tag'] : null;            
     ?>
 
@@ -33,13 +33,16 @@
         <div class="tag clicked-tag" data-filter='all'>All</div>
         <div class="tag" data-filter='Python'>Python</div>
         <div class="tag" data-filter='SQL'>SQL</div>
+        <div class="tag" data-filter='PLSQL'>PL/SQL</div>
+        <div class="tag" data-filter='Reactjs'>React.js</div>
+        <div class="tag" data-filter='Nextjs'>Next.js</div>
+        <div class="tag" data-filter='PHP'>PHP</div>
+        <div class="tag" data-filter='Selenium'>Selenium</div>
+        <div class="tag" data-filter='Javascript'>Vanilla Javascript</div>
+        <div class="tag" data-filter='Power-Bi'>Power Bi</div>
         <div class="tag" data-filter='Adobe-Illustrator'>Illustrator</div>
         <div class="tag" data-filter='Adobe-After-Effects'>After Effects</div>
         <div class="tag" data-filter='English'>English</div>
-        <div class="tag" data-filter='PHP'>PHP</div>
-        <div class="tag" data-filter='Javascript'>Javascript</div>
-        <div class="tag" data-filter='CSS'>CSS</div>
-        <div class="tag" data-filter='Power-Bi'>Power Bi</div>
     </div>
 
     <div class="cards">

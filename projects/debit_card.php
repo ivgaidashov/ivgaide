@@ -41,6 +41,14 @@
         </div>
     </div>
 
+    <div class="s paragraph plsql">
+        <p>Later I designed another mockup for a new card product. The concept was focused  on the Tambov region and its cultural and economic diversity. The town combines multi-faceted people, ideas, and various flows inside itself. This is where the bank meets the challenges along the way to help finance your visions.</p>
+    </div>
+
+    <div class="project-banner ">
+        <img src="<?php echo HTTP;?>img/projects/card/4.png">
+    </div>
+
 </div>
 
 </body>

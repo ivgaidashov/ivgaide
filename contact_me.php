@@ -18,13 +18,17 @@
     <div class="contact">
 
         <div class="contact-info">
-           
-            <div class="phone">
-                Call me:<span class ='key-words'>+7 (953) 708-41-43</span>
-            </div>
 
+            <div class="github">
+                My Github:<a href="https://github.com/ivgaidashov" ><span class ='key-words'>ivgaidashov</span></a>
+            </div>
+            
             <div class="socials">
                 Messengers:<p><a href="https://t.me/ivangaidashov" target="_blank"><span class ='key-words'>Telegram</span></a>, <a href="https://wa.me/79204990634" target="_blank"><span class ='key-words'>WhatsApp</span></a></p>
+            </div>
+
+            <div class="phone">
+                Call me:<span class ='key-words'>+7 (953) 708-41-43</span>
             </div>
 
             <div class="email">

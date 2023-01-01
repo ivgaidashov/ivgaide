@@ -231,7 +231,7 @@ section:nth-of-type(even)
         display: flex;
         flex-wrap: wrap;
         row-gap: 20px;
-        justify-content: space-between;
+        justify-content: space-evenly; 
     }
 
         .tag
@@ -737,7 +737,7 @@ section:nth-of-type(even)
             align-items: center;
         }
 
-            .phone, .email, .socials
+            .phone, .email, .socials, .github
             {
                 margin-bottom: 2rem;
                 font-size: 2rem;
@@ -945,7 +945,7 @@ section:nth-of-type(even)
                 }
 /*CONTACT ME*/
 
-    .phone, .email, .socials
+    .phone, .email, .socials, .github
     {
         font-size: 1.3rem;
     }
@@ -1182,7 +1182,7 @@ section:nth-of-type(even)
     
     /*CONTACT ME*/
 
-    .phone, .email, .socials
+    .phone, .email, .socials, .github
     {
         font-size: 1.1rem;
     }
@@ -1336,7 +1336,7 @@ section:nth-of-type(even)
         grid-template-columns: 1fr;
     }
 
-        .phone, .email, .socials
+        .phone, .email, .socials, .github
         {
             font-size: 1rem;
             font-weight: 400;
@@ -1534,7 +1534,7 @@ section:nth-of-type(even)
 
     /*CONTACT ME*/
 
-        .phone, .email, .socials
+        .phone, .email, .socials, .github
         {
             font-size: 0.85rem;
         }
